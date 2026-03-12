@@ -1,5 +1,5 @@
 .titulo{
-    background-image: url('../img/green-fake-grass-background.jpg');
+    background-image: url('./img/grama.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -60,7 +60,7 @@ p{
 .mamaco{
     width: 140px;
     height: auto;
-    mar2gin: 0 0 0 20px;
+    margin: 0 0 0 20px;
     border-radius: 10px;
    
     animation: rebolar 1s infinite;
